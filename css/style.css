@@ -1,0 +1,112 @@
+	body
+	{
+		background:  #C4DDE7;
+	}
+
+	#container, header, nav, aside, section, footer
+	{
+		border-radius:10px;
+	}
+	#container{
+		width: 90%;
+		height: 400px;
+		background: #0ACFE1;
+		margin: auto;
+		padding:10px 10px;
+	}
+
+	header
+	{
+		font-family: "Homer Simpson", cursive;
+		text-align: center;
+		font-size: 15px;
+		background: #0A92E1;
+		gba(252,205,77,1) 34%,rgba(252,205,77,1) 34%,rgba(248,181,0,1) 53%,rgba(251,223,147,1) 100%); /* Chrome10-25,Safari5.1-6 */
+		border-radius: 20px;
+		margin: 10px 0px;
+	}
+
+
+	header h1
+	{
+		text-align: center;
+		padding: 10px 5px;
+		margin:0px;
+	}
+
+	nav{
+		
+		background: #1C0AE1;
+		margin:10px 0px;
+		margin-bottom:10px;
+	}
+	
+	
+	nav ul li
+	{
+		display: inline-block;
+		padding: 5px 2px;
+		
+		
+	}
+	
+	nav ul li 
+	{
+		text-decoration: none;
+		color: #000000;
+	}
+
+	nav ul li:hover
+	{
+		background: #ffb6c1;
+	}
+	p {
+		text-align: justify;
+	}
+
+	section
+	{
+		background: #1A318E;
+		margin: 0 auto;
+		width: 400px;
+		height: 300px;
+		border-radius: 10px  10px;
+
+	}
+
+	#login{
+		margin: 0 auto;
+		width:100%;
+		border-radius:10px;
+	}
+
+	footer
+	{
+		font-family: "arial", serif; 
+		font-size: 10px;
+		background: #73abdf; /* Old browsers */
+		width:90%;
+		position: absolute;
+		bottom: 0 !important;
+		text-align: center
+	}
+
+	#login2{
+
+		background: 1A91D5;
+		margin: 10px auto;
+		width: 30%;
+		border-radius: 10px;
+		padding:10px;
+	}
+	
+	
+
+	
+	img{
+		margin: center;
+		text-align:center;
+
+	}
+
+
