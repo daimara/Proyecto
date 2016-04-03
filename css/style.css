@@ -1,8 +1,11 @@
 	body
 	{
 		background:  #C4DDE7;
+<<<<<<< HEAD
 		height: 100%;
 		width: 100%;
+=======
+>>>>>>> 8465edf0e77e20ba2507d5de75be701085e8d88b
 	}
 
 	#container, header, nav, aside, section, footer
@@ -23,6 +26,10 @@
 		text-align: center;
 		font-size: 15px;
 		background: #0A92E1;
+<<<<<<< HEAD
+=======
+		gba(252,205,77,1) 34%,rgba(252,205,77,1) 34%,rgba(248,181,0,1) 53%,rgba(251,223,147,1) 100%); /* Chrome10-25,Safari5.1-6 */
+>>>>>>> 8465edf0e77e20ba2507d5de75be701085e8d88b
 		border-radius: 20px;
 		margin: 10px 0px;
 	}
@@ -54,13 +61,21 @@
 	nav ul li 
 	{
 		text-decoration: none;
+<<<<<<< HEAD
 		color: #FFFFFF;
 
+=======
+		color: #000000;
+>>>>>>> 8465edf0e77e20ba2507d5de75be701085e8d88b
 	}
 
 	nav ul li:hover
 	{
+<<<<<<< HEAD
 		background: #000000;
+=======
+		background: #ffb6c1;
+>>>>>>> 8465edf0e77e20ba2507d5de75be701085e8d88b
 	}
 	p {
 		text-align: justify;
@@ -82,6 +97,7 @@
 		border-radius:10px;
 	}
 
+<<<<<<< HEAD
 	fieldset{
 		justify;
 	}
@@ -89,6 +105,12 @@
 	{
 		font-family: "arial", serif; 
 		font-size: 15px;
+=======
+	footer
+	{
+		font-family: "arial", serif; 
+		font-size: 10px;
+>>>>>>> 8465edf0e77e20ba2507d5de75be701085e8d88b
 		background: #73abdf; /* Old browsers */
 		width:90%;
 		position: absolute;
@@ -103,6 +125,7 @@
 		width: 30%;
 		border-radius: 10px;
 		padding:10px;
+<<<<<<< HEAD
 		float: left;
 	}
 	
@@ -142,6 +165,16 @@
 		float: right;
 		width: 100px;
 		height: 100px;
+=======
+	}
+	
+	
+
+	
+	img{
+		margin: center;
+		text-align:center;
+>>>>>>> 8465edf0e77e20ba2507d5de75be701085e8d88b
 
 	}
 
